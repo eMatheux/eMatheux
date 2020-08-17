@@ -6,7 +6,7 @@ About me:
 
 ```java
 public static void main(String[] args) {
-    System.out.println("My name is Matheus, I have 14 years old. Currently i'm programming Java.")
+    System.out.println("My name is Matheus, I have 15 years old. Currently i'm programming Java.")
     System.out.println("📕 I'm learning JavaScript/PHP")
 }
 ```
