@@ -1,6 +1,6 @@
 <h2>Hello World <img src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif" align="right" width="300"></h2>
 
-[![Twitter: matheux_x](https://img.shields.io/twitter/follow/matheux_x?style=social)](https://twitter.com/ThaiiBraga)
+[![Twitter: matheux_x](https://img.shields.io/twitter/follow/matheux_x?style=social)](https://twitter.com/matheux_x)
 
 About me:
 
