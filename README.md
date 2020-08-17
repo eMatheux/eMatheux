@@ -1,4 +1,5 @@
-### <iframe src="https://giphy.com/embed/26n7b7PjSOZJwVCmY" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ciscoengemojis-security-26n7b7PjSOZJwVCmY">via GIPHY</a></p> Hello World
+### Hello World
+<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:100%;position:relative;"><iframe width="260" height="260" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/4bq8zc"></iframe></div><p><a href="https://imgflip.com/gif/4bq8zc">via Imgflip</a></p></div>
 
 <!--
 **eMatheux/eMatheux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
